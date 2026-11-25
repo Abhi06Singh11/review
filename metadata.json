@@ -1,0 +1,6 @@
+{
+  "name": "Quick Google Review",
+  "description": "Mobile-first branded customer review landing page and password-protected admin dashboard with QR code generation for honest Google Reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
